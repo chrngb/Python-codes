@@ -1,4 +1,4 @@
-# Band name Generator app
+# Band name Generator program
 
 The user enters his city name and his pet name.
 
